@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Timetable.js</file>
+        <file>RoundRect.qml</file>
+        <file>CenterText.qml</file>
+    </qresource>
+</RCC>
